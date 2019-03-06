@@ -1,0 +1,4 @@
+config BR2_PACKAGE_XMINERD
+	bool "miners Daemon"
+	help
+	  all event realized
